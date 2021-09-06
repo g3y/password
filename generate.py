@@ -7,7 +7,7 @@ all = digits+chars+up+special
 from random import choice
 
 password = ''.join (
-    choice(all) for i in range(9)
+    choice(all) for i in range(10)
 )
 
 f = open('ascii.txt', 'r')
