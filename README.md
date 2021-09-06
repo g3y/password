@@ -5,7 +5,7 @@
   <h3 align="center">PhLogo</h3>
 
   <p align="center">
-    A simple image transformer.
+    A simple password generator.
     <br />
     <br />
     <a href="https://github.com/g3y/password/issues">Report Bug</a>
@@ -23,14 +23,14 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 1. Clone the repo
-
    ```sh
    git clone https://github.com/g3y/password.git
    ```
- 2.
-    ```sh
-   Start "generate.py" and enjoy
-   ```
+2.
+   ```sh
+   start generate.py and enjoy
+   ```  
+
 
 
 Adam - Adam.#0015 on discord - contact@adamp.eu
