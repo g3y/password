@@ -23,8 +23,13 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 1. Clone the repo
+
    ```sh
    git clone https://github.com/g3y/password.git
+   ```
+ 2.
+    ```sh
+   Start "generate.py" and enjoy 😃
    ```
 
 
