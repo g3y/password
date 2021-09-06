@@ -26,10 +26,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/g3y/password.git
    ```
-2.
-   ```sh
-   start generate.py and enjoy
-   ```  
+2. Start generate.py and enjoy
 
 
 
