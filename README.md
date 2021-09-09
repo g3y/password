@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">PhLogo</h3>
+  <h3 align="center">Password Generator</h3>
 
   <p align="center">
     A simple password generator.
